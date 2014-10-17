@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[una:home|Door43 (una)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-una|d43-una repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-una/archive/master.zip|d43-una.zip]]
+
+**Recent Changes**
+{{changes>ns = una}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/una|Ethnologue data]]
+
